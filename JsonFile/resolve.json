@@ -1,0 +1,39 @@
+{
+  "resolve": [
+    {
+      "url": "https://docs.python.org/3.7/library/re.html",
+      "tabId": 34,
+      "isBlocked": false,
+      "isControlled": true,
+      "id": 1
+    },
+    {
+      "url": "https://docs.python.org/3.7/library/re.html",
+      "tabId": 34,
+      "isBlocked": false,
+      "isControlled": true,
+      "id": 2
+    },
+    {
+      "url": "http://en.xyu.be/",
+      "tabId": 36,
+      "isBlocked": true,
+      "isControlled": true,
+      "id": 3
+    },
+    {
+      "url": "https://www.bbc.co.uk/",
+      "tabId": 40,
+      "isBlocked": false,
+      "isControlled": true,
+      "id": 4
+    },
+    {
+      "url": "https://www.bbc.com/",
+      "tabId": 40,
+      "isBlocked": false,
+      "isControlled": true,
+      "id": 5
+    }
+  ]
+}

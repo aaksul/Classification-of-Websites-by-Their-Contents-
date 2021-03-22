@@ -1,0 +1,126 @@
+{
+  "trusted": [
+    {
+      "url": "12345aaa",
+      "image": "https://getbootstrap.com/docs/4.3/assets/img/favicons/favicon-32x32.png",
+      "id": 0
+    },
+    {
+      "url": "fff",
+      "image": "https://getbootstrap.com/docs/4.3/assets/img/favicons/favicon-32x32.png",
+      "id": 2
+    },
+    {
+      "url": "asd",
+      "image": "https://getbootstrap.com/docs/4.3/assets/img/favicons/favicon-32x32.png",
+      "id": 3
+    },
+    {
+      "url": "https://www.google.com.tr/",
+      "image": "https://www.google.com.tr/favicon.ico",
+      "title": "Google",
+      "id": 4
+    },
+    {
+      "url": "https://blog.usejournal.com/bug-hunting-methodology-part-1-91295b2d2066",
+      "image": "https://miro.medium.com/fit/c/128/128/1*j2BdfotbmcEB56_AvQ04Cw.png",
+      "title": "Bug Hunting Methodology (part-1)Updated on 4-Jan-2020",
+      "id": 5
+    },
+    {
+      "url": "https://www.journaldev.com/10660/json-server",
+      "image": "https://cdn.journaldev.com/wp-content/uploads/2019/08/jdfavicon.png",
+      "title": "JSON Server (json-server) - JournalDev",
+      "id": 6
+    },
+    {
+      "url": "https://www.trtspor.com.tr/canli-yayin-izle/trt-spor/",
+      "image": "https://www.trtspor.com.tr/static/favicon.ico",
+      "title": "TRT SPOR Canlı Yayın - TRT Spor - Türkiye`nin güncel spor haber kaynağı",
+      "id": 7
+    },
+    {
+      "url": "https://www.viprow.net/",
+      "image": "https://www.viprow.net/favicon-32x32.png",
+      "title": "VIP Box Sports - Sports On Demand Online For Free | VIP Sports",
+      "id": 8
+    },
+    {
+      "url": "https://docs.python.org/3.7/library/re.html",
+      "image": "https://docs.python.org/3.7/_static/py.png",
+      "title": "re — Regular expression operations — Python 3.7.6 documentation",
+      "id": 9
+    },
+    {
+      "url": "https://docs.python.org/3.7/library/re.html",
+      "image": "https://docs.python.org/3.7/_static/py.png",
+      "title": "re — Regular expression operations — Python 3.7.6 documentation",
+      "id": 10
+    },
+    {
+      "url": "https://www.bbc.co.uk/",
+      "image": "https://www.bbc.com/favicon.ico",
+      "title": "https://www.bbc.co.uk",
+      "id": 11
+    },
+    {
+      "url": "https://www.bbc.com/",
+      "image": "https://www.bbc.com/favicon.ico",
+      "title": "BBC - Homepage",
+      "id": 12
+    }
+  ],
+  "blocked": [
+    {
+      "url": "a",
+      "image": "https://getbootstrap.com/docs/4.3/assets/img/favicons/favicon-32x32.png",
+      "id": 1
+    },
+    {
+      "url": "file:///Users/aydinyardimci/Desktop/AraProjeV3/EvebeynKontrol%20v2/popup.html?",
+      "image": "https://getbootstrap.com/docs/4.3/assets/img/favicons/favicon-32x32.png",
+      "id": 4
+    },
+    {
+      "url": "https://vqtube.com/",
+      "title": "Porn Tube, Xxx, Porno - Free Porn Videos & Sex Movies | VQTUBE.COM",
+      "id": 5
+    },
+    {
+      "url": "http://www.watchpornvideos.mobi/",
+      "title": "Watch Porn Movies, XXX Tube, Sex Videos",
+      "id": 6
+    },
+    {
+      "url": "http://www.watchfreepornlive.com/",
+      "title": "Watch Free Porn Live",
+      "id": 7
+    },
+    {
+      "url": "https://www.google.com/search?q=sozc%C3%BC&oq=sozc%C3%BC&aqs=chrome..69i57j0l7.3959j0j7&sourceid=chrome&ie=UTF-8",
+      "title": "sozcü - Google'da Ara",
+      "id": 8
+    },
+    {
+      "url": "https://www.google.com/search?q=sozc%C3%BC&oq=sozc%C3%BC&aqs=chrome.0.69i59j0l7.2885j0j4&sourceid=chrome&ie=UTF-8",
+      "title": "sozcü - Google'da Ara",
+      "id": 9
+    },
+    {
+      "url": "https://www.trtspor.com.tr/",
+      "title": "TRT Spor - Türkiye`nin güncel spor haber kaynağı",
+      "id": 10
+    },
+    {
+      "url": "https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters",
+      "image": "https://github.githubassets.com/favicon.ico",
+      "title": "nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters: A list of resources for those interested in getting started in bug bounties",
+      "id": 11
+    },
+    {
+      "url": "http://en.xyu.be/",
+      "title": "Watch and download free XXX porn HD videos online - Xyu",
+      "id": 12
+    }
+  ]
+}

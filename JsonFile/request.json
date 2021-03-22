@@ -1,0 +1,8 @@
+{
+  "request": [],
+  "login": {
+    "password": "asd",
+    "isLocked": false,
+    "protection": true
+  }
+}
