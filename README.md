@@ -1,4 +1,4 @@
-<span style="color:#006699">Website Categorization and Filtering</span>  <span style="color:#006699">\(Bilgisayar Projesi 2019\-Güz\)</span>  <span style="color:#006699">Alperen Aksu</span>  <span style="color:#006699">Aydın Yardımcı</span>  <span style="color:#006699">Danışman: Prof\. Dr\. Banu Diri</span>
+<span style="color:#006699">Website Categorization and Filtering</span>  <span style="color:#006699">\(Computer Project 2019\)</span>  <span style="color:#006699">Alperen Aksu</span>  <span style="color:#006699">Aydın Yardımcı</span>  <span style="color:#006699">Counselor: Prof\. Dr\. Banu Diri</span>
 
 <span style="color:#FFFFFF">Scope of Our Project</span>
 
